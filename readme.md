@@ -1,4 +1,4 @@
-# Xpresser Example App Using Ejs
+# Xpresser Simple App
 
 ![Alt text](https://cdn.jsdelivr.net/npm/xpresser/xpresser-logo-black.png "Xpresser Logo")
 
