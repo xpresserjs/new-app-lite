@@ -1,0 +1,5 @@
+{
+  "autoload": {
+    "controllerServices": "all"
+  }
+}
