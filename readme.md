@@ -1,5 +1,7 @@
 # Xpresser Simple App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xpresserjs/new-app-lite.svg)](https://greenkeeper.io/)
+
 ![Alt text](https://cdn.jsdelivr.net/npm/xpresser/xpresser-logo-black.png "Xpresser Logo")
 
 
