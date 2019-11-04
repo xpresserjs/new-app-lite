@@ -1,5 +1,5 @@
 /**
- * AppController
+ * @type Xpresser.Controller.Handler
  */
 const AppController = $.handler({
 
