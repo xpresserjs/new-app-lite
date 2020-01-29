@@ -1,6 +1,6 @@
 /**
  * See https://xpresserjs.com/router/
- * @type {XpresserRouter}
+ * @type {Xpresser.Router}
  */
 const Route = $.router;
 

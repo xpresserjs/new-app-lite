@@ -6,7 +6,7 @@ module.exports = {
     // name of app
     name: "Xpresser-Simple-App",
     /**
-     * By default xjs sets this for you.
+     * By default xpresser sets this for you.
      */
     server: {
         domain: 'localhost',
