@@ -1,7 +1,12 @@
 /**
- * @type Xpresser.Controller.Handler
+ * @type Xpresser.Controller.Object
  */
-const AppController = $.handler({
+const AppController = {
+    /**
+     * Controller name.
+     * @type {string}
+     */
+    name: 'AppController',
 
     /**
      * Index Method for "/"
@@ -9,6 +14,6 @@ const AppController = $.handler({
      */
     index: () => "<h1>My First Xpresser Project</h1>",
 
-});
+};
 
 module.exports = AppController;
