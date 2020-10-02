@@ -4,7 +4,11 @@
  */
 module.exports = {
     // name of app
-    name: "Xpresser-Simple-App",
+    name: 'Xpresser-Simple-App',
+
+    // app environment
+    env: 'development',
+
     /**
      * By default xpresser sets this for you.
      */

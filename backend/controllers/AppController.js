@@ -12,7 +12,7 @@ const AppController = {
      * Index Method for "/"
      * @returns {string}
      */
-    index: () => "<h1>My First Xpresser Project</h1>",
+    index: () => "<h1>My xpresser lite project</h1>",
 
 };
 
