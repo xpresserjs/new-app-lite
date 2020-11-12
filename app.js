@@ -10,6 +10,4 @@ const xpresser = require("xpresser");
 const config = require("./config");
 
 // Boot Xpresser
-xpresser(config).boot();
-
-// END File
+xpresser.init(config).boot();

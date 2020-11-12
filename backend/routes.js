@@ -1,10 +1,11 @@
+const {getInstanceRouter} = require('xpresser');
 /**
  * See https://xpresserjs.com/router/
  */
-const Route = $.router;
+const router = getInstanceRouter();
 
 /**
  * Url: "/" points to AppController@index
  * The index method of the controller.
  */
-Route.get('/', 'App@index').name('index');
+router.get('/', 'App@index').name('index');

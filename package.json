@@ -10,7 +10,7 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
-    "xpresser": "^0.2.96"
+    "xpresser": "^0.3.13"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
