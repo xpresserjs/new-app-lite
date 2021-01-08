@@ -1,5 +1,5 @@
 // Import Xpresser
-const xpresser = require("xpresser");
+const {init} = require("xpresser");
 
 /**
  * Boot Xpresser with your config
@@ -10,4 +10,4 @@ const xpresser = require("xpresser");
 const config = require("./config");
 
 // Boot Xpresser
-xpresser.init(config).boot();
+init(config).boot();
