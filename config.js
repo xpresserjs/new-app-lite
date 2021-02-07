@@ -6,7 +6,7 @@ module.exports = {
     // name of app
     name: 'Xpresser-Simple-App',
 
-    // app environment
+    // app environment (development|production)
     env: 'development',
 
     /**
