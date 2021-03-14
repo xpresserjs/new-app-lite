@@ -2,7 +2,7 @@
   "dev": {
     "main": "app.js",
     "start_cron": "node",
-    "start_server": "nodemon",
+    "start_server": "npx nodemon",
     "start_console": "node"
   },
   "prod": {
