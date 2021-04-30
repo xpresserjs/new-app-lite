@@ -12,7 +12,7 @@ const AppController = {
      * Index Method for "/"
      * @returns {string}
      */
-    index: () => "<h1>My xpresser lite project</h1>",
+    index: (http) => http.send("<h1>My xpresser lite project</h1>"),
 
 };
 
