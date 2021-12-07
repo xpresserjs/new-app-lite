@@ -10,11 +10,11 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
-    "xpresser": "^0.24.0"
+    "xpresser": "^0.25.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.7",
-    "xjs-cli": "^0.4.2"
+    "xjs-cli": "^1.1.3"
   },
   "engines": {
     "node": ">=10"
